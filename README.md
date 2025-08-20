@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**NameLesSs00/NameLesSs00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://your-image-link.com/profile.jpg" width="250" style="border-radius:50%; margin-left: 20px;" />
 
-Here are some ideas to get you started:
+## 💻 Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate **Software Engineer** who loves building modern web applications with a focus on clean, scalable, and efficient code.
+
+### 🚀 Tech Stack
+- ⚛️ **React**  
+- 🌀 **Next.js**  
+- 🟦 **TypeScript**  
+- 🎨 **Tailwind CSS**
+
+### 🌐 Connect with Me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/pola-samy-bb3a6031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_
