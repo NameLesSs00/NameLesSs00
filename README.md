@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pola Samy
 
-<img align="right" src="https://github.com/NameLesSs00/NameLesSs00/blob/main/img.jpg?raw=true" width="250" style="border-radius:50%; margin-left: 20px;" />
+<img align="right" src="/img.jpg" width="250" style="border-radius:50%; margin-left: 20px;" />
 
 ## 💻 Software Engineer
 
